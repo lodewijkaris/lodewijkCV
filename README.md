@@ -1,5 +1,9 @@
 # lodewijkCV
 Java/Tomcat-based CV Website made by Lodewijk Aris. This is a personal CV site built using Java Servlets and Apache Tomcat.
+
+# Usage
+Simply unzip the zipfile lodewijkaris and open index.html in any browser.
+
 # Lodewijk Aris – CV Website
 
 This repository contains the static version of my personal CV website, originally built using Java Servlets and Apache Tomcat. It showcases my experience in aerospace systems engineering, mission operations, and secure web development.
